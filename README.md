@@ -29,8 +29,11 @@ The variables “Name” and “EIN” were removed from our input data as we de
 
 ### Compiling, Training, and Evaluating the Model
 
+![Alt Text]()
 
+![Alt Text]()
 
+![Alt Text]()
 
 
 ## Summary
