@@ -29,7 +29,7 @@ The variables “Name” and “EIN” were removed from our input data as we de
 
 ### Compiling, Training, and Evaluating the Model
 
-####How many neurons, layers, and activation functions did you select for your neural network model, and why?
+#### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
  Attempt 1 – I started with 2 hidden layers with 100 neurons and 50 neurons, run with 100 epochs. The neurons are an increase from deliverable 2. I used this attempt as a benchmark so that I could adjust the subsequent attempts. Accuracy was 70.2%.
 ![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%201.png)
@@ -50,5 +50,6 @@ Attempt 1 – Increased the numbers of nuerons in each layer
 Attempt 2 – Added a third hidden layer 
 Attempt 3 – Removed the third hidden layer and increased the number of epochs.
 
-
 ## Summary
+
+Overall, we were not able to achieve the 75% accuracy rate, however we were very close with attempt number 1. The other attempts, though lower in accuracy, only decreased by a small magnitutude. With additional tweaks to the code, we could get even closer to the 75% accuracy. Because of the large number of rows and the small amount of features, we could try a supervised learning model such as a Random Forest model.
