@@ -47,7 +47,9 @@ I did not achieve the target model performance after 3 attempts. The highest acc
 #### What steps did you take to try and increase model performance?
 
 Attempt 1 – Increased the numbers of nuerons in each layer
+
 Attempt 2 – Added a third hidden layer 
+
 Attempt 3 – Removed the third hidden layer and increased the number of epochs.
 
 ## Summary
