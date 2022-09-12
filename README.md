@@ -31,13 +31,13 @@ The variables “Name” and “EIN” were removed from our input data as we de
 
 #### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
- Attempt 1 – I started with 2 hidden layers with 100 neurons and 50 neurons, run with 100 epochs. The neurons are an increase from deliverable 2. I used this attempt as a benchmark so that I could adjust the subsequent attempts. Accuracy was 70.2%.
+Attempt 1 – I started with 2 hidden layers with 100 neurons and 50 neurons, run with 100 epochs. The neurons are an increase from deliverable 2. I used this attempt as a benchmark so that I could adjust the subsequent attempts. Accuracy was 70.2%.
 ![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%201.png)
 
- Attempt 2 – I chose to add another hidden layer for a total of three hidden layers with 100 epochs. With the addition of the 3rd hidden layer I chose 25 neurons. Accuracy was 68.4%.
+Attempt 2 – I chose to add another hidden layer for a total of three hidden layers with 100 epochs. With the addition of the 3rd hidden layer I chose 25 neurons. Accuracy was 68.4%.
 ![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%202.png)
 
- Attempt 3 – I decided to remove the 3rd hidden layer as the last attempt produced a lower accuracy than attempt one. Instead, I increased the epochs and ran it through 200 epochs. Accuracy was 67%
+Attempt 3 – I decided to remove the 3rd hidden layer as the last attempt produced a lower accuracy than attempt one. Instead, I increased the epochs and ran it through 200 epochs. Accuracy was 67%
 ![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%203.png)
 
 #### Were you able to achieve the target model performance?
