@@ -29,11 +29,11 @@ The variables “Name” and “EIN” were removed from our input data as we de
 
 ### Compiling, Training, and Evaluating the Model
 
-![Alt Text]()
+![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%201.png)
 
-![Alt Text]()
+![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%202.png)
 
-![Alt Text]()
+![Alt Text](https://github.com/lauren1478/Neural_Network_Charity_Analysis/blob/main/Supporting%20PNGs/Attempt%203.png)
 
 
 ## Summary
